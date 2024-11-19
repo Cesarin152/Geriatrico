@@ -192,4 +192,4 @@ YOLO (You Only Look Once) es un modelo de inteligencia artificial que detecta ob
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia GNU General Public License (GPL) v3.0 . Consulta `LICENSE` para más detalles.
