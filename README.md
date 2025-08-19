@@ -19,18 +19,6 @@ El sistema utiliza tecnologías como **inteligencia artificial (YOLO)**, un **se
 - **Simulaciones:** Scripts para probar el sistema sin hardware físico.
 
 ---
-
-## Integrantes del Equipo
-
-El desarrollo de este prototipo fue realizado por un equipo multidisciplinario:
-
-- **César Vigil:** Responsable de la coordinación general del proyecto, asegurando que todas las tareas fueran completadas dentro del tiempo establecido y supervisando cada componente.
-- **Héctor Mosquera:** Encargado de realizar las conexiones de los circuitos en los microcontroladores, asegurando la integración física de los sensores y relés con el sistema.
-- **Pierre Pitty:** Responsable de documentar los procesos, resultados y contribuciones técnicas del proyecto, generando reportes y guías.
-- **Raúl Loo:** Encargado de realizar pruebas y simulaciones del dispositivo, evaluando la funcionalidad de los sensores y relés, y reportando ajustes necesarios.
-
----
-
 ## Flujo General del Sistema
 
 ### 1. Inicio del Sistema
