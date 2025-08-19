@@ -3,7 +3,7 @@
 
 ## Descripción General
 
-Este proyecto es un prototipo desarrollado como parte de la materia **Proyecto de Ingeniería** en la Universidad Tecnológica de Panamá, bajo la supervisión de la Dra. Jessica Guevara y Ing. Juan Headley. Su objetivo principal es monitorear y gestionar entornos geriátricos, enfocándose en la detección de caídas, supervisión ambiental y control de dispositivos conectados.
+Este proyecto es un prototipo desarrollado. Su objetivo principal es monitorear y gestionar entornos geriátricos, enfocándose en la detección de caídas, supervisión ambiental y control de dispositivos conectados.
 
 El sistema utiliza tecnologías como **inteligencia artificial (YOLO)**, un **servidor Flask** para comunicación centralizada, y una **interfaz gráfica moderna basada en PyQt5**.
 
